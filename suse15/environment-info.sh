@@ -56,6 +56,9 @@ python3 --version
 print_title "rpmbuild"
 rpmbuild --version
 
+print_title "mkisofs"
+mkisofs --version
+
 print_title "nodejs"
 node --version
 
